@@ -5,7 +5,7 @@ import sys, os
 import gzip
 import random, math
 from optparse import OptionParser
-
+from collections import namedtuple
 
 
 options = None
